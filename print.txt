@@ -1,0 +1,12 @@
+----------------Electric Bill------------------ 
+Date and time : 08/05/2022 14:51:21
+Account Id : 1000
+Meter Serial Number : BGM34353735R43634
+Name : Harish
+Address : Tilakwadi , Belagavi - 590006
+Previous reading : 7896
+Present reading : 7960
+Comsuption : 64
+Tax : 0.09
+GST : 0.18
+Total Amount to be paid : 342.9
